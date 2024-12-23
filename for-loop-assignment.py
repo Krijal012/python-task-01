@@ -1,4 +1,4 @@
-Q) Take the price of an item as input. If the price is more than 1000, apply a 10% discount. Otherwise, check if the price is more than 500 and apply a 5% discount. Print the final price.
+#Q) Take the price of an item as input. If the price is more than 1000, apply a 10% discount. Otherwise, check if the price is more than 500 and apply a 5% discount. Print the final price.
     
 price = int(input("Enter the price of an item: "))
 if price > 1000:
